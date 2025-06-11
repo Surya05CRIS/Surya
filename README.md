@@ -1,2 +1,0 @@
-# Surya
-My Projects
